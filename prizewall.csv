@@ -1,0 +1,61 @@
+name,condition,set,language,eur,rwp,wp,display
+Brazen Borrower,EXC,,EN,16,"6,4",7,"Brazen B."
+Monastery Mentor,nm,,EN,14,"5,6",6,
+Arid mesa,EXC,,EN,"15,5","6,2",7,
+Thoughtseize,EXC,,EN,"16,2","6,48",7,
+Wooded Foothills,nm,,EN,29,"11,6",12,
+Bloodstained mire,nm,,EN,33,"13,2",14,
+Blood Moon,NM,,EN,16,"6,4",7,
+Windswept Heath,nm,,EN,20,8,8,
+Abrupt Decay,nm,,EN,"4,2","1,68",2,
+Misty Rainforest,,,EN,18,"7,2",8,
+Chalice of the VOid,,,EN,50,20,20,
+Ancient Tomb,,,EN,48,"19,2",20,
+Karn scion of urza,,,EN,8,"3,2",4,"Karn, Scion"
+Karn great creator,,,EN,16,"6,4",7,"Karn, tGC"
+True-Name Nemesis,,,EN,7,"2,8",3,
+Swords to Plowshares,,,EN,1,"0,4",1,"StP"
+Surgical Extraction,,,EN,17,"6,8",7,"Surgical Ex."
+Polluted Delta,,,EN,35,14,14,
+Marsh Flats,,,EN,15,6,6,
+Kolaghan's Command,,,EN,"9,2","3,68",4,"K-Command"
+Karakas,,,EN,32,"12,8",13,
+Jitte,,,EN,12,"4,8",5,
+Infernal Tutor,,,EN,5,2,2,
+Force of vigor,,,EN,32,"12,8",13,
+Flusterstorm,,,EN,"13,6","5,44",6,
+Flooded Strand,,,EN,29,"11,6",12,
+Ethersworn Canonist,,,EN,"6,5","2,6",3,
+Daze,,,EN,"2,5",1,1,
+Council's Judgment,,,EN,5,2,2,"C. Judgement"
+Collective Brutality,,,EN,"6,1","2,44",3,
+Sol Ring,GD,Beta,EN,1100,440,440,
+Taiga,LP,FBB,EN,465,186,186,
+Flooded Strand,NM,ZNE,EN,44,"17,6",18,
+Forest,GD,Guru,EN,530,212,212,
+Sylvan Library,EXC,5th,EN,33,"13,2",14,
+Thoughtseize,NM,TSR,EN,23,"9,2",10,
+Mana Crypt,NM,DME,EN,185,74,74,
+Mana Crypt,NM,DM,EN,124,"49,6",50,
+Wooded Foothills,NM,KTK,RU,29,"11,6",12,
+Show and tell,GD,Urzas saga,DE,"16,5","6,6",7,
+Ugin the spirit dragon,NM,M21:E,EN,39,"15,6",16,Eugene
+Rhystic study,NM,JP,EN,163,"65,2",66,
+Scalding Tarn,EXC,MM Old Border,EN,56,"22,4",23,
+Verdant Catacombs,EXC,Old Border,EN,36,"14,4",15,
+Tropical Island,GD,,EN,410,164,164,
+Wasteland,EXC,Tempest,EN,33,"13,2",14,
+Force of Negation,EXC,MM,EN,72,"28,8",29,
+Snapcaster Mage,EXC,Innistrad,EN,36,"14,4",15,
+"Teferi, Time raveler",NM,SL Old Border,EN,33,"13,2",14,T3feri
+"Karn, the Great Creator",NM,SL Old Border,EN,24,"9,6",10,"Karn, tGC"
+Helm of Obedience,GD,Alliances,EN,50,20,20,
+Ensnaring Bridge,PL?,Stronghold,DE,18,"7,2",8,
+Plateau,LP?,Revised,EN,240,96,96,
+Counterbalance,EXC,Coldsnap,EN,"10,5","4,2",5,
+Blood Moon,EXC,9te Edition,EN,16,"6,4",7,
+Mishra's Bauble,NM,Double Masters,EN,"9,5","3,8",4,
+Day's Undoing,NM,Magic Origins,EN,14,"5,6",6,
+Underground Sea,Exc,Revised,EN,750,300,300,
+Tundra,LP,Revised,EN,430,172,172,
+Bayou,LP,Revised,EN,420,168,168,
