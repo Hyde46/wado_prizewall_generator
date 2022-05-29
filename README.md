@@ -34,3 +34,6 @@ The resulting pricewall pngs will be located at `./output`
 ## Example output 
 Result will look similar to this
 ![Example usage](output/prizewall_p2.png)
+
+## Font
+Jupitex font from [here](https://www.webprocomponents.com/jupitex-a-modern-font)
