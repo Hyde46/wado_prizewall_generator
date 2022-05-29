@@ -3,6 +3,8 @@ Consumes a `.csv` with the following fields:
 ```
 name,condition,set,language,eur,rwp,wp,display
 ```
+Generates "Prizewall" images of these cards by querying and then fetching the image from `scryfall.com` and placing them neatly on a page.
+If too many images are in the `.csv`, more pages will be generated.
 
 Where
 - `name` is the name of the card with which Scryfall will be queried
@@ -28,3 +30,7 @@ cargo run <path_to_csv>
 ```
 
 The resulting pricewall pngs will be located at `./output`
+
+## Example output 
+Result will look something like this
+![Example usage](output/prizewall_p2.png)
