@@ -32,5 +32,5 @@ cargo run <path_to_csv>
 The resulting pricewall pngs will be located at `./output`
 
 ## Example output 
-Result will look something like this
+Result will look similar to this
 ![Example usage](output/prizewall_p2.png)
