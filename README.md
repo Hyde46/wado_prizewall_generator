@@ -16,11 +16,14 @@ Where
 
 
 ## Build 
-Install rust and then run
+Install rust
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+and then run
 ```
 cargo build
 ```
-
 
 ## Run and generate prizewall
 ```
